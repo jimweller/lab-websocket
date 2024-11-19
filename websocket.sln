@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat", "chat\chat.csproj", "{37119BC8-FCC2-4FD2-A42F-703C5A37A3CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat_listener", "chat_listener\chat_listener.csproj", "{E918D12F-90A6-4872-94A0-E1A221726446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5C4094-B4E0-4750-A778-2F3658E8AF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5C4094-B4E0-4750-A778-2F3658E8AF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5C4094-B4E0-4750-A778-2F3658E8AF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5C4094-B4E0-4750-A778-2F3658E8AF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B82FEB-FAE9-40FA-83F4-DA5D183C0F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B82FEB-FAE9-40FA-83F4-DA5D183C0F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B82FEB-FAE9-40FA-83F4-DA5D183C0F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B82FEB-FAE9-40FA-83F4-DA5D183C0F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37119BC8-FCC2-4FD2-A42F-703C5A37A3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37119BC8-FCC2-4FD2-A42F-703C5A37A3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37119BC8-FCC2-4FD2-A42F-703C5A37A3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37119BC8-FCC2-4FD2-A42F-703C5A37A3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E918D12F-90A6-4872-94A0-E1A221726446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E918D12F-90A6-4872-94A0-E1A221726446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E918D12F-90A6-4872-94A0-E1A221726446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E918D12F-90A6-4872-94A0-E1A221726446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

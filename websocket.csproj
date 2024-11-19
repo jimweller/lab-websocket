@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <!-- No ProjectReference elements here -->
+  <!-- This top-level .csproj will not combine builds of the subprojects -->
+</Project>
