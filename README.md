@@ -3,12 +3,7 @@
 This POC is intended to show how a central SaaS service can manage and
 communicate with a fleet of websocket clients (brokers, agents)
 
-[📺 Video Demo](websocket.mp4)
-
-https://github.com/jimweller/lab-websocket/raw/refs/heads/main/websocket.mp4
-
-https://raw.githubusercontent.com/jimweller/lab-websocket/refs/heads/main/websocket.mp4
-
+https://github.com/user-attachments/assets/c3ab2f05-03c9-48b3-8a10-7690674c9064
 
 ![architecture](architecture.drawio.svg)
 
