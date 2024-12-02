@@ -5,7 +5,9 @@ communicate with a fleet of websocket clients (brokers, agents)
 
 [📺 Video Demo](websocket.mp4)
 
-<video src="https://github.com/jimweller/lab-websocket/raw/refs/heads/main/websocket.mp4">📺 Video Demo</video>
+https://github.com/jimweller/lab-websocket/raw/refs/heads/main/websocket.mp4
+
+
 
 
 ![architecture](architecture.drawio.svg)
